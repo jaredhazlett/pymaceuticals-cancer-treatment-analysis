@@ -1,6 +1,8 @@
 # pymaceuticals-cancer-treatment-analysis
-Welcome to pymaceuticals! This project uses Pandas to organize a csv with results of cancer treatments on mice. Various outcomes are represented in graphs and boxplots in matplolib.
+Welcome to pymaceuticals! This project uses Pandas to organize cancer treatments results on mice. Various outcomes are represented in graphs and boxplots in matplolib.
 Summary statistics are performed on the results as a means of determining potentially successful/unsuccessful treatment regiments. 
+
+Here are the summary statistics of each of the cancer treatments on tumor volume
 ![SummaryStatistics_TumorvsDrug](https://user-images.githubusercontent.com/69011929/112052987-0afd2800-8b11-11eb-98a7-b01566bde6d4.png)
 
 Next we have a box plot graph of tumor volume as well as an outlier identified by a red mark
